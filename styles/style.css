@@ -1,6 +1,7 @@
 header {
   color: teal;
-  background: lightblue;
+  background-color: lightblue;
   display: flex;
   justify-content: center;
+  margin: 2rem auto;
 }/*# sourceMappingURL=style.css.map */
